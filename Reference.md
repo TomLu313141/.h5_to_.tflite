@@ -13,3 +13,14 @@
 [tf.lite.Interpreter_教學](https://www.w3cschool.cn/tensorflow_python/tf_lite_Interpreter.html)
 
 [convert keras(h5) file to tflite](https://stackoverflow.com/questions/53256877/how-to-convert-kerash5-file-to-a-tflite-file)
+
+
+
+# About float to int
+[Model Quantization Using TensorFlow Lite](https://medium.com/sclable/model-quantization-using-tensorflow-lite-2fe6a171a90d)
+
+[tf_model_quant/model_optimization_tflite.ipynb (github.com)](https://github.com/sanchit88/tf_model_quant/blob/master/model_optimization_tflite.ipynb)
+
+[Tensorflow 2的Quantization Aware Training指南 ](https://medium.com/%E8%BB%9F%E9%AB%94%E4%B9%8B%E5%BF%83/tensorflow-2%E7%9A%84quantization-aware-training%E6%8C%87%E5%8D%97-8d8137462769)
+
+[tflite量化](https://www.twblogs.net/a/5e857252bd9eee21168687c4)
